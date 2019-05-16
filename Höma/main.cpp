@@ -10,6 +10,7 @@
 using namespace std;
 
 int main(int argc, const char * argv[]) {
+    //Test
     //Aufgabe 1
     /*
     CMyVector vec = CMyVector(new double[2], 2);
